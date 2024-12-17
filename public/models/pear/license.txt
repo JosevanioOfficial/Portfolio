@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pear
+* source:	https://sketchfab.com/3d-models/pear-5b47f07f2bf24a2dae2a365a2d4b7721
+* author:	Mo.Ra.Ab (https://sketchfab.com/Mo_61)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pear" (https://sketchfab.com/3d-models/pear-5b47f07f2bf24a2dae2a365a2d4b7721) by Mo.Ra.Ab (https://sketchfab.com/Mo_61) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
